@@ -1,0 +1,244 @@
+[
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.CategoriaControllers",
+    "Method": "Editar",
+    "RelativePath": "api/CategoriaControllers/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Models.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.CategoriaControllers",
+    "Method": "Eliminar",
+    "RelativePath": "api/CategoriaControllers/Eliminar/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.CategoriaControllers",
+    "Method": "Guardar",
+    "RelativePath": "api/CategoriaControllers/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Models.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.CategoriaControllers",
+    "Method": "Lista",
+    "RelativePath": "api/CategoriaControllers/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.CategoriaControllers",
+    "Method": "Obtener",
+    "RelativePath": "api/CategoriaControllers/Obtener/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.ConfiguracionControllers",
+    "Method": "Editar",
+    "RelativePath": "api/ConfiguracionControllers/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Models.Configuracion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.ConfiguracionControllers",
+    "Method": "Eliminar",
+    "RelativePath": "api/ConfiguracionControllers/Eliminar/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int16",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.ConfiguracionControllers",
+    "Method": "Guardar",
+    "RelativePath": "api/ConfiguracionControllers/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Models.Configuracion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.ConfiguracionControllers",
+    "Method": "Lista",
+    "RelativePath": "api/ConfiguracionControllers/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.ConfiguracionControllers",
+    "Method": "Obtener",
+    "RelativePath": "api/ConfiguracionControllers/Obtener/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int16",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.DetalleVentasControllers",
+    "Method": "Editar",
+    "RelativePath": "api/DetalleVentasControllers/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Models.DetalleVentas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.DetalleVentasControllers",
+    "Method": "Eliminar",
+    "RelativePath": "api/DetalleVentasControllers/Eliminar/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int16",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.DetalleVentasControllers",
+    "Method": "Guardar",
+    "RelativePath": "api/DetalleVentasControllers/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Models.DetalleVentas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.DetalleVentasControllers",
+    "Method": "Lista",
+    "RelativePath": "api/DetalleVentasControllers/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.DetalleVentasControllers",
+    "Method": "Obtener",
+    "RelativePath": "api/DetalleVentasControllers/Obtener/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int16",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Tarea___Trabajo_de_Programaci\u00F3n_Capa_de_API.WeatherForecast, Tarea - Trabajo de Programaci\u00F3n Capa de API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tarea - Trabajo de Programación Capa de API.props" />
+</Project>
